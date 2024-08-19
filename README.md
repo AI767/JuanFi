@@ -26,7 +26,7 @@ Join our vibrant community group to connect with other users and contributors. S
 
  ### Hardware Option
 
-###!!!!AutoSelecvlan!!!!###
+-wireless base
 - Lan based
 
 ### Coinslot System
